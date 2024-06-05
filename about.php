@@ -1,3 +1,3 @@
 <?php 
-echo "About"
+echo("esto es el about");
 ?>
